@@ -47,7 +47,7 @@ The project is ongoing research. Descriptive charts and examples are illustrativ
 
 ## Reference
 
-Roy Trivedi, S. (2024). *Into the Unknown*. [Bibliographic details to be completed in the research paper.]
+Roy Trivedi, S. (2024). *Into the Unknown*.
 
 ## Scope of this repository
 
